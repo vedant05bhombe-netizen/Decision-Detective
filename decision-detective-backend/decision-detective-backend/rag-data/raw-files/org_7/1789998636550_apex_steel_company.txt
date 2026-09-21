@@ -1,0 +1,174 @@
+COMPANY PROFILE — SAMPLE STEEL COMPANY
+========================================
+
+NOTE:
+This is fictional sample data created for testing/demo purposes.
+
+Company Name: Apex Steel Industries Pvt. Ltd.
+Company ID: ASI-2048
+Industry: Steel Manufacturing
+Company Type: Private Limited
+Founded: 1987
+Headquarters: Pune, Maharashtra, India
+Website: https://example.com/apex-steel
+
+ABOUT THE COMPANY
+-----------------
+Apex Steel Industries Pvt. Ltd. is a fictional steel manufacturing company
+specializing in carbon steel, structural steel, hot rolled products, and
+industrial steel components. The company operates manufacturing facilities
+in western India and supplies steel products to construction, automotive,
+infrastructure, and engineering customers.
+
+EMPLOYEE DETAILS
+----------------
+Total Employees: 4,850
+Full-Time Employees: 4,420
+Part-Time Employees: 180
+Contract Employees: 250
+
+Department Breakdown:
+- Manufacturing: 2,050 employees
+- Engineering: 620 employees
+- Sales and Marketing: 410 employees
+- Finance and Accounting: 230 employees
+- Human Resources: 145 employees
+- Information Technology: 185 employees
+- Quality Control: 380 employees
+- Logistics and Supply Chain: 510 employees
+- Research and Development: 120 employees
+- Administration: 200 employees
+
+MANAGEMENT
+----------
+Chief Executive Officer: Rajiv Mehta
+Chief Operating Officer: Sameer Kulkarni
+Chief Financial Officer: Priya Sharma
+Chief Technology Officer: Amit Verma
+Head of Human Resources: Kavita Joshi
+Head of Manufacturing: Nitin Patil
+Head of Sales: Rohit Desai
+
+FINANCIAL INFORMATION
+---------------------
+Annual Revenue: INR 3.8 Billion
+Estimated Annual Operating Cost: INR 3.1 Billion
+Estimated Annual Profit: INR 420 Million
+Fiscal Year: 2025-26
+Currency: INR
+
+MANUFACTURING
+-------------
+Number of Plants: 3
+Main Manufacturing Location: Pune, Maharashtra
+Annual Steel Production Capacity: 1.2 Million Tons
+Current Estimated Utilization: 82%
+
+Major Products:
+- Hot Rolled Steel Coils
+- Steel Plates
+- Structural Steel
+- Carbon Steel Bars
+- Industrial Steel Components
+
+CUSTOMERS AND MARKETS
+---------------------
+Primary Industries Served:
+- Construction
+- Automotive
+- Infrastructure
+- Heavy Engineering
+- Industrial Equipment
+
+Primary Markets:
+- Maharashtra
+- Gujarat
+- Karnataka
+- Tamil Nadu
+- Telangana
+- Delhi NCR
+
+Export Markets:
+- UAE
+- Saudi Arabia
+- Bangladesh
+
+TECHNOLOGY
+----------
+ERP System: SAP S/4HANA
+CRM System: Salesforce
+Cloud Platform: Microsoft Azure
+Database: PostgreSQL
+Internal Applications: Java, Spring Boot, React
+Analytics: Power BI
+Version Control: GitHub
+
+CERTIFICATIONS
+--------------
+ISO 9001: Quality Management
+ISO 14001: Environmental Management
+ISO 45001: Occupational Health and Safety
+IATF 16949: Automotive Quality Management
+
+CONTACT
+-------
+Corporate Office:
+Apex Steel Industries Pvt. Ltd.
+Industrial Park, Pune
+Maharashtra, India
+
+Email: contact@example.com
+Phone: +91-20-0000-0000
+
+RECENT COMPANY INFORMATION
+--------------------------
+New Employees Hired This Year: 385
+Employees Who Left This Year: 210
+Current Open Positions: 74
+Employee Training Hours This Year: 28,600
+Major Expansion Planned: New production line
+Expansion Target Year: 2027
+
+SAMPLE EMPLOYEE RECORDS
+-----------------------
+Employee ID: ASI-EMP-1001
+Name: Rahul Deshmukh
+Department: Manufacturing
+Position: Production Engineer
+Experience: 6 years
+Location: Pune
+Employment Type: Full-Time
+
+Employee ID: ASI-EMP-1002
+Name: Sneha Patil
+Department: Information Technology
+Position: Software Engineer
+Experience: 3 years
+Location: Pune
+Employment Type: Full-Time
+
+Employee ID: ASI-EMP-1003
+Name: Arjun Shah
+Department: Sales and Marketing
+Position: Regional Sales Manager
+Experience: 9 years
+Location: Mumbai
+Employment Type: Full-Time
+
+Employee ID: ASI-EMP-1004
+Name: Meera Kulkarni
+Department: Human Resources
+Position: HR Executive
+Experience: 4 years
+Location: Pune
+Employment Type: Full-Time
+
+Employee ID: ASI-EMP-1005
+Name: Vikram Joshi
+Department: Quality Control
+Position: Quality Engineer
+Experience: 5 years
+Location: Pune
+Employment Type: Full-Time
+
+END OF SAMPLE COMPANY FILE
