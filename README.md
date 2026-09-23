@@ -373,6 +373,10 @@ Decision-Detective/
 
 ![Decision Detective](./screenshots/Screenshot%202026-09-22%20080139.png)
 
+
+### Flip and Ai Analysis
+![Decision Detective](./screenshots/Screenshot 2026-09-23 121122.png)
+
 ---
 
 ## ⚙️ Getting Started
