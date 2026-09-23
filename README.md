@@ -375,7 +375,8 @@ Decision-Detective/
 
 
 ### Flip and Ai Analysis
-![Decision Detective](./screenshots/Screenshot 2026-09-23 121122.png)
+
+![Decision Detective](./screenshots/Screenshot%202026-09-23%20121122.png)
 
 ---
 
